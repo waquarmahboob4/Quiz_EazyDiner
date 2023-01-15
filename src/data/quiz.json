@@ -1,0 +1,53 @@
+[
+{"question":"When do most people eat an ‘appetizer’?",
+    "options":{"a":"before a meal","b":" after a meal ","c":"during a meal","d":"at any time"},
+    "answers":"a"
+},
+
+{
+    "question":"Which of the following is sometimes used with a ‘beverage’ ?",
+    "options":{"a":"a fork","b":"a straw","c":"chopsticks","d":"a knife"},
+    "answers":"b"
+},
+{
+    "question":"A restaurant cashier is a person who ....",
+    "options":{"a":"washes dirty dishes","b":"takes your order","c":"cooks your food","d":"takes your money"},
+    "answers":"d"
+},
+{
+    "question":"In which of the following places can you often find a ‘food court’?",
+    "options":{"a":"in a shopping mall","b":"in a restaurant","c":"in a supermarket","d":"in a kitchen"},
+    "answers":"a"
+},
+{
+    "question":"Which of the following things is a sometimes made from?",
+    "options":{"a":"glass","b":"paper","c":"vegetables","d":"water"},
+    "answers":"b"
+},
+{
+    "question":"Which of the following things do people usually do with a ‘plate’",
+    "options":{"a":"put coffee in it","b":"sit on it","c":"put food on it","d":"eat it"},
+    "answers":"c"
+},
+{
+    "question":"Which of the following things is sometimes ‘refilled’",
+    "options":{"a":"a bill","b":"a menu","c":"a cup of coffee","d":"a home delivery order"},
+    "answers":"c"
+},
+{
+    "question":"Which of the following things do people sometimes ‘reserve’?",
+    "options":{"a":"fast-food","b":"a customer","c":"a bowl of soup","d":"a restaurant table"},
+    "answers":"d"
+},
+{
+    "question":"Which of the following is an example of a ‘restaurant chain’?",
+    "options":{"a":"McDonald’s","b":"Italian food","c":"dessert","d":"a toothpick"},
+    "answers":"a"
+},
+{
+    "question":"Which of the following words best describes ‘salt’?",
+    "options":{"a":"expensive","b":"white","c":"delicious","d":"big"},
+    "answers":"b"
+}
+
+]
